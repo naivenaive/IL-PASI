@@ -12,3 +12,5 @@ The IL-PASI GUI provides three models (Segnet (HiRes), Unet (HiRes), Pspnet (HiR
 
 ## Suggestions
 The psoriais image should have a light background like white.
+
+![IL-PASI GUI](https://github.com/naivenaive/IL-PASI/blob/main/eFigure%204.png)
